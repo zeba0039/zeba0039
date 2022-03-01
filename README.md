@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Zeba
+- 👀 I’m interested in Web and App development (both frontend and backend)
+- 🌱 I’m currently working on Reactjs, React Native and Nodejs
+- 📫 How to reach me
+  - [Email](mailto:zebaramzan@hotmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/zeba-ramzan)
