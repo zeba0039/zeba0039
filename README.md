@@ -11,7 +11,7 @@
 - ⚙️ I use daily: `.js`, `.scss`, `.css`
 - 🌱 Learning all about **Software Development**
 - 📫 Reach me: [Email](mailto:zebaramzan@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/zeba-ramzan)
-- 📝 Checkout my [Resume](resume/resume.pdf).
+- 📝 Checkout my [Resume](resume.pdf).
 
 #### My Current Stack
 
