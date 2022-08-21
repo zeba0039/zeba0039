@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Senior software engineer looking for a Job
+## Hi 👋, I'm a Senior software engineer
 
 #### Now
 
